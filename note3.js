@@ -1,14 +1,6 @@
 alert("lets check");
 const addBtn=document.querySelector('#addBtn');
 const main=document.querySelector('#main');
-const savenotes=()=>{
-
-
-
-
-
-    
-}
 addBtn.addEventListener("click",function(){
     addNote();
 })
